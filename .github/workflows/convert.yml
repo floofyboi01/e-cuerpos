@@ -1,0 +1,60 @@
+name: Convert PHP to HTML for GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run PHP to HTML conversion
+        run: |
+          # Simple inline script to rename .php to .html and update href links
+          python -c '
+          import os, re
+          for root, _, files in os.walk("."):
+              if ".github" in root: continue
+              for file in files:
+                  if file.endswith((".html", ".php")):
+                      path = os.path.join(root, file)
+                      with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                          content = f.read()
+                      # Update internal links from .php to .html
+                      new_content = re.sub(r"\b([\w-]+)\.php\b", r"\1.html", content)
+                      with open(path, "w", encoding="utf-8") as f:
+                          f.write(new_content)
+          '
+          # Rename all .php files to .html
+          python -c '
+          import os
+          for root, _, files in os.walk("."):
+              if ".github" in root: continue
+              for file in files:
+                  if file.endswith(".php"):
+                      old = os.path.join(root, file)
+                      new = os.path.join(root, file[:-4] + ".html")
+                      os.rename(old, new)
+          '
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
