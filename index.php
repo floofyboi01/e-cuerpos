@@ -194,7 +194,7 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                       <tr> 
                         <td height="85" bgcolor="#FFFFFF">
 <div align="center"> 
-                                                        <a href="produtos.php?sub=20&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/ilustra/20.jpg" width="142" height="87" border="0"></a></div></td>
+                                                        <a href="ojosmasculinos.html"><img src="img/20.jpg" width="142" height="87" border="0"></a></div></td>
                       </tr>
                       <tr> 
                         <td height="140" valign="top" bgcolor="#FFFFFF"> <table width="130" border="0" align="center" cellpadding="0" cellspacing="0" class="v11g">
@@ -208,12 +208,12 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                               <td height="20" colspan="2"> <div align="justify"></div></td>
                             </tr>
                             <tr> 
-                              <td width="18" height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td width="18" height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td width="112" class="v11r"><a href="produtos.php?sub=20&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203" class="link_rodape">Consultar 
                                 producto</a></td>
                             </tr>
                             <tr> 
-                              <td height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td class="v11r"><a href="javascript:AbrePagina('indica.php?id_produto=43',220,330)" class="link_rodape">Recomendar 
                                 por e-mai</a>l</td>
                             </tr>
@@ -244,12 +244,12 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                               <td height="20" colspan="2"> <div align="justify"></div></td>
                             </tr>
                             <tr> 
-                              <td width="18" height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td width="18" height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td width="112" class="v11r"><a href="produtos.php?sub=4&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203" class="link_rodape">Consultar 
                                 productohelpme</a></td>
                             </tr>
                             <tr> 
-                              <td height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td class="v11r"><a href="javascript:AbrePagina('indica.php?id_produto=47',220,330)" class="link_rodape">Recomendar 
                                 por e-mai</a>l</td>
                             </tr>
@@ -280,12 +280,12 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                               <td height="20" colspan="2"> <div align="justify"></div></td>
                             </tr>
                             <tr> 
-                              <td width="18" height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td width="18" height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td width="112" class="v11r"><a href="produtos.php?sub=21&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203" class="link_rodape">Consultar 
                                 producto</a></td>
                             </tr>
                             <tr> 
-                              <td height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
+                              <td height="20"><div align="center"><img src="img/marcador2.jpg" width="12" height="13"></div></td>
                               <td class="v11r"><a href="javascript:AbrePagina('indica.php?id_produto=74',220,330)" class="link_rodape">Recomendar 
                                 por e-mai</a>l</td>
                             </tr>
