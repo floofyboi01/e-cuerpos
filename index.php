@@ -366,7 +366,7 @@ __wm.bt(775,27,25,2,"web","http://www.e-cuerpos.com/espa/index.php","20060821214
                             <tr> 
                               <td width="18" height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
                               <td width="112" class="v11r"><a href="produtos.php?sub=4&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203" class="link_rodape">Consultar 
-                                producto</a></td>
+                                productohelpme</a></td>
                             </tr>
                             <tr> 
                               <td height="20"><div align="center"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/centro/marcador2.jpg" width="12" height="13"></div></td>
