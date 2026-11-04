@@ -129,39 +129,39 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                   Masculino</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=19&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">O&iacute;do 
+                <td height="17"><a class="menulink" href="oidomasculino.html">Oído 
                   Masculino</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=20&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Ojos 
+                <td height="17"><a class="menulink" href="ojosmasculinos.html">Ojos 
                   Masculinos</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=7&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Antebrazo 
+                <td height="17"><a class="menulink" href="antebrazofemenino.html">Antebrazo 
                   Femenino</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=3&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Cuarto 
+                <td height="17"><a class="menulink" href="cuartosuperiorfemenino.html">Cuarto 
                   ant. del Brazo Fem.</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=2&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Brazo 
+                <td height="17"><a class="menulink" href="brazofemenino.html">Brazo 
                   Femenino</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=4&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Pierna 
+                <td height="17"><a class="menulink" href="piernaderechafemenina.html">Pierna 
                   Femenina</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=6&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Senos 
+                <td height="17"><a class="menulink" href="senosfemeninos.html">Senos 
                   Femeninos</a></td>
               </tr>
               <tr> 
-                <td height="17"><a class="menulink" href="produtos.php?sub=11&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Piel 
+                <td height="17"><a class="menulink" href="piel.html">Piel 
                   Femenina</a></td>
               </tr>
               <tr>
-                <td height="17"><a class="menulink" href="produtos.php?sub=21&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203">Cuerpo 
+                <td height="17"><a class="menulink" href="cuerpohumanosenteros.html">Cuerpo 
                   Entero</a></td>
               </tr>
             </table></td>
@@ -178,7 +178,7 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
         <tr> 
           <td height="20" colspan="2" valign="top"> 
             <div align="center"> 
-<a href="https://web.archive.org/web/20060821214648/http://www.e-cuerpos.com/espa/produtos.php?sub=4"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/_img/2.jpg" border="0"></a>            </div></td>
+<a href="https://web.archive.org/web/20060821214648/http://www.e-cuerpos.com/espa/produtos.php?sub=4"><img src="img/2.jpg" border="0"></a>            </div></td>
         </tr>
         <tr> 
           <td width="43%">&nbsp;</td>
@@ -230,7 +230,7 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                       <tr> 
                         <td height="85" bgcolor="#FFFFFF">
 <div align="center"> 
-                                                        <a href="produtos.php?sub=4&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/ilustra/4.jpg" width="142" height="87" border="0"></a></div></td>
+                                                        <a href="produtos.php?sub=4&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203"><img src="img/4.jpg" width="142" height="87" border="0"></a></div></td>
                       </tr>
                       <tr> 
                         <td height="140" valign="top" bgcolor="#FFFFFF"> <table width="130" border="0" align="center" cellpadding="0" cellspacing="0" class="v11g">
@@ -266,7 +266,7 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
                       <tr> 
                         <td height="85" bgcolor="#FFFFFF">
 <div align="center"> 
-                                                        <a href="produtos.php?sub=21&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203"><img src="/web/20060821214648im_/http://www.e-cuerpos.com/ilustra/21.jpg" width="142" height="87" border="0"></a></div></td>
+                                                        <a href="produtos.php?sub=21&amp;PHPSESSID=6d973d11dd187f3c661d719b9cabe203"><img src="img/21.jpg" width="142" height="87" border="0"></a></div></td>
                       </tr>
                       <tr> 
                         <td height="140" valign="top" bgcolor="#FFFFFF"> <table width="130" border="0" align="center" cellpadding="0" cellspacing="0" class="v11g">
@@ -373,23 +373,6 @@ window.open(Foto,"","resizable=no,toolbar=no,status=no,menubar=no,scrollbars=no,
 </table>
 </body>
 </html>
-<!--
-     FILE ARCHIVED ON 21:46:48 Aug 21, 2006 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:48:31 Nov 03, 2026.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  captures_list: 1.048
-  exclusion.robots: 0.078
-  exclusion.robots.policy: 0.062
-  esindex: 0.012
-  cdx.remote: 219.044
-  LoadShardBlock: 1117.929 (3)
-  PetaboxLoader3.datanode: 224.016 (4)
   PetaboxLoader3.resolve: 276.79 (2)
   load_resource: 184.869
   nav: 0.28 (6)
